@@ -1,0 +1,19 @@
+{
+  "name": "replicate_tyler_images",
+  "version": "1.0.0",
+  "description": "for funsies",
+  "main": "index.js",
+  "scripts": {
+    "predict": "node index.js"
+  },
+  "keywords": [
+    "tyler",
+    "bishop"
+  ],
+  "author": "ShibaKIng",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "16.4.5",
+    "replicate": "0.30.2"
+  }
+}
